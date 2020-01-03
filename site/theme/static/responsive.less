@@ -133,7 +133,8 @@
     border-right: 0;
   }
 
-  .main-container, .ant-row-rtl .main-container {
+  .main-container,
+  .ant-row-rtl .main-container {
     margin-right: 0;
     margin-left: 0;
     padding-right: 16px;
@@ -152,6 +153,11 @@
   .prev-next-nav {
     width: ~'calc(100% - 32px)';
     margin-left: 16px;
+
+    .ant-row-rtl & {
+      margin-right: 16px;
+      margin-left: 64px;
+    }
   }
 
   .drawer {
