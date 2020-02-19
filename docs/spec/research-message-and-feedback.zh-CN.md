@@ -37,8 +37,6 @@ title: 消息与反馈
 </div>
  
 #### 跳转
-
-失败&警告提示应尽量停留在原页面，方便用户修改错误。
   
 <div>
   <img alt="buttons" src="https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*1nJLRImNsxAAAAAAAAAAAABkARQnAQ">
