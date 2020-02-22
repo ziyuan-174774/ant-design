@@ -7,7 +7,7 @@ type:
   en-US: Template Document
 order: 2
 title:
-  zh-CN: 数据可视化页
+  zh-CN: 消息与反馈
   en-US: Visualization Page
 ---
 
