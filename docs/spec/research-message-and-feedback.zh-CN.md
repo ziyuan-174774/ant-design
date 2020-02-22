@@ -46,6 +46,8 @@ title:
 
 <img class="preview-img no-padding" align="right" src="https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*NPVGQr6f5-4AAAAAAAAAAABkARQnAQ">
 
+#### 
+
 **全局提示 Message**
 
 在不希望在用户执行操作时中断用户前提下显示一条简短的成功消息。
@@ -58,6 +60,8 @@ title:
 
 • 长流程步骤表单在最后告知用户成功结果；
 • 需要展示较复杂的补充信息（例如配置信息详情）。
+
+#### 
 
 <img class="preview-img no-padding" align="right" src="https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*524fSKE97wYAAAAAAAAAAABkARQnAQ">
 
@@ -75,11 +79,15 @@ title:
 
 提醒用户完成当前工作流之外的重要操作（例如警告信息不安全）。
 
+#### 
+
 <img class="preview-img no-padding" align="right" src="https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*4sHLQowCs6IAAAAAAAAAAABkARQnAQ">
 
 **警告提示 Alert**
 
 提醒用户系统中需要立即引起注意的错误信息。
+
+#### 
 
 <img class="preview-img no-padding" align="right" src="https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*Qg51Sq2A_M4AAAAAAAAAAABkARQnAQ">
 
@@ -88,6 +96,8 @@ title:
 • 用户输入的内容不符合字段或表单的要求；
 • 用户跳过了必填字段；
 • 系统检测到表单数据中的错误。
+
+#### 
 
 <img class="preview-img no-padding" align="right" src="https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*QeWqTIWqrWEAAAAAAAAAAABkARQnAQ">
 
@@ -113,6 +123,8 @@ title:
 
 • 向用户告知重要的问题或失败状态，希望用户立马做出决策。
 • 反馈后台进程结果。
+
+#### 
 
 <img class="preview-img no-padding" align="right" src="https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*IGpqRbPGZxQAAAAAAAAAAABkARQnAQ">
 
