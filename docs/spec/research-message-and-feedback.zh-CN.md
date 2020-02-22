@@ -55,7 +55,7 @@ title:
 
 **独占式 Inline Text & Illustration**
 
-- 长流程步骤表单在最后告知用户成功结果；
+- 长流程步骤表单在最后告知用户成功结果。
 - 需要展示较复杂的补充信息（例如配置信息详情）。
 #### 
 <img class="preview-img no-padding" align="right" src="https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*524fSKE97wYAAAAAAAAAAABkARQnAQ">
@@ -84,8 +84,8 @@ title:
 
 **表单校验提示**
 
-- 用户输入的内容不符合字段或表单的要求；
-- 用户跳过了必填字段；
+- 用户输入的内容不符合字段或表单的要求。
+- 用户跳过了必填字段。
 - 系统检测到表单数据中的错误。
 #### 
 <img class="preview-img no-padding" align="right" src="https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*QeWqTIWqrWEAAAAAAAAAAABkARQnAQ">
